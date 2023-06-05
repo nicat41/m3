@@ -9,11 +9,12 @@ li {
 }
 
 .information:hover {
-  background-color: black;
+  background-color: #833ae0;
+  
   margin-block-start: 5px;
   color: white;
   border-radius: 10px;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .information {
